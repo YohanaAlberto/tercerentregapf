@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* MAPS */
+.facebook {
+  color: rgb(51, 0, 255);
+}
+
+.instagram {
+  color: rgb(255, 0, 247);
+}
+
+/*MAP - GET */
+h1 {
+  color: #713e5a;
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #713e5a;
+}
+
+a {
+  font-size: 1.5rem;
+}
+
+.btn {
+  font-size: 1.5rem;
+}
+
+.bd-footer {
+  background-color: #CEA2AC;
+}
+
+.bd-navbar {
+  background-color: #A675A1;
+}
+
+body {
+  font-family: "Roboto Slab", serif;
+  font-size: 1.5rem;
+  background-color: #EFD9CE;
+}
+
+h1 {
+  margin-left: 3%;
+}
+
+.img-fluid {
+  object-fit: cover;
+}
+
+.card-body {
+  height: 55rem;
+}
+
+.contenedorTabla {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.tabla {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.table {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.img-thumbnail {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.pilatesBeneficios, .card {
+  border: 1px solid #A675A1;
+  background-color: #EFD9CE;
+}
+
+article {
+  height: 500px;
+  width: 600px;
+}
+
+.bd-btn {
+  background-color: #A675A1;
+}
+
+.bd-contacto {
+  background-color: #A675A1;
+}/*# sourceMappingURL=style.css.map */
